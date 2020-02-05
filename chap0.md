@@ -1,4 +1,4 @@
-Goto Chapter: [Top](chap0.html) [1](chap1.html) [2](chap2.html)
+Goto Chapter: [Top](chap0.html) [1](chap1.html) [2](chap2.md)
 [3](chap3.html) [4](chap4.html) [5](chap5.html) [6](chap6.html)
 [7](chap7.html) [8](chap8.html) [9](chap9.html) [Ind](chapInd.html)
 
@@ -38,42 +38,42 @@ Reference: Authors and Maintainers of the **GAP** reference manual.
 [1 Preface](chap1.html#X874E1D45845007FE)
 
 [2 Changes between **GAP** 4.9 and **GAP**
-4.10](chap2.html#X795B238486D0ABCD)
+4.10](chap2.md#X795B238486D0ABCD)
 
- [2.1 **GAP** 4.10.0 (November 2018)](chap2.html#X7AC99045788C39ED) 
+ [2.1 **GAP** 4.10.0 (November 2018)](chap2.md#X7AC99045788C39ED) 
 
   
-  [2.1-1 New features and major changes](chap2.html#X7D6E0C387D13B429) 
+  [2.1-1 New features and major changes](chap2.md#X7D6E0C387D13B429) 
   
   [2.1-2 Improved and extended
-functionality](chap2.html#X7D7FE19B7F8235E5)    
-  [2.1-3 Changed documentation](chap2.html#X82A7352D8641A11E)    
+functionality](chap2.md#X7D7FE19B7F8235E5)    
+  [2.1-3 Changed documentation](chap2.md#X82A7352D8641A11E)    
   [2.1-4 Fixed bugs that could lead to
-crashes](chap2.html#X842F3691816406D6)    
+crashes](chap2.md#X842F3691816406D6)    
   [2.1-5 Fixed bugs that could lead to incorrect
-results](chap2.html#X7D8629AE7B18F72B)    
+results](chap2.md#X7D8629AE7B18F72B)    
   [2.1-6 Fixed bugs that could lead to break
-loops](chap2.html#X86F4ECE78773DE72)    
-  [2.1-7 Other fixed bugs](chap2.html#X8470A7907B252827)    
+loops](chap2.md#X86F4ECE78773DE72)    
+  [2.1-7 Other fixed bugs](chap2.md#X8470A7907B252827)    
   [2.1-8 Removed or obsolete
-functionality](chap2.html#X7E82CC3E7C54ACEC)    
-  [2.1-9 Packages](chap2.html#X844ECC8387ADC6D7) 
+functionality](chap2.md#X7E82CC3E7C54ACEC)    
+  [2.1-9 Packages](chap2.md#X844ECC8387ADC6D7) 
 
- [2.2 **GAP** 4.10.1 (February 2019)](chap2.html#X858254CF7D9DE943) 
+ [2.2 **GAP** 4.10.1 (February 2019)](chap2.md#X858254CF7D9DE943) 
 
   
   [2.2-1 Changes in the core **GAP** system introduced in **GAP**
-4.10.1](chap2.html#X785A404B8565D020)    
+4.10.1](chap2.md#X785A404B8565D020)    
   [2.2-2 New and updated packages since **GAP**
-4.10.0](chap2.html#X7D3DEF227BFDF572) 
+4.10.0](chap2.md#X7D3DEF227BFDF572) 
 
- [2.3 **GAP** 4.10.2 (June 2019)](chap2.html#X788B3576809DC149) 
+ [2.3 **GAP** 4.10.2 (June 2019)](chap2.md#X788B3576809DC149) 
 
   
   [2.3-1 Changes in the core **GAP** system introduced in **GAP**
-4.10.21](chap2.html#X7B1174477F4EB41B)    
+4.10.21](chap2.md#X7B1174477F4EB41B)    
   [2.3-2 New and updated packages since **GAP**
-4.10.1](chap2.html#X7A4D9C2B857C8C78) 
+4.10.1](chap2.md#X7A4D9C2B857C8C78) 
 
 [3 Changes between **GAP** 4.8 and **GAP**
 4.9](chap3.html#X7DE3F944789F9676)
@@ -276,7 +276,7 @@ Features](chap8.html#X83E1A0D87D3D1EAF)
  [\[Top of Book\]](chap0.html)  [\[Contents\]](chap0.html#contents) 
  [\[Next Chapter\]](chap1.html) 
 
-Goto Chapter: [Top](chap0.html) [1](chap1.html) [2](chap2.html)
+Goto Chapter: [Top](chap0.html) [1](chap1.html) [2](chap2.md)
 [3](chap3.html) [4](chap4.html) [5](chap5.html) [6](chap6.html)
 [7](chap7.html) [8](chap8.html) [9](chap9.html) [Ind](chapInd.html)
 
