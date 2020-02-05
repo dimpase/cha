@@ -77,9 +77,8 @@ contributors. More detailed information can be found in Section
 
 <div class="ContSSBlock">
 
-<span class="ContSS">  
-<span class="nocss">  </span>[2.1-1 <span class="Heading">New features
-and major changes</span>](chap2.html#X7D6E0C387D13B429) </span>
+[2.1-1 <span class="Heading">New features
+and major changes</span>](chap2.html#X7D6E0C387D13B429)
 <span class="ContSS">  
 <span class="nocss">  </span>[2.1-2 <span class="Heading">Improved and
 extended functionality</span>](chap2.html#X7D7FE19B7F8235E5) </span>
